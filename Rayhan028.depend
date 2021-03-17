@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1615991658 source:f:\c prog\rayhan028\getch.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"calc.h"
+
+1615991658 f:\c prog\rayhan028\calc.h
+
+1615991658 source:f:\c prog\rayhan028\getop.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"calc.h"
+
+1615991655 source:f:\c prog\rayhan028\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"calc.h"
+
+1615991658 source:f:\c prog\rayhan028\stack.c
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	"calc.h"
+
